@@ -1,0 +1,10 @@
+x = "Hello World" #str
+x = 28 #int
+x = 28.5 #float
+x = ["apple","Banana","cherry"] #list
+x = {"apple","Banana","cherry"} #tuple
+x = {name:"pipusana" , age:26} #dict
+x = {"apple","banana","cherry"} #set
+x = frozenset({"apple", "banana","cherry"}) #frozenset
+x = true #bool
+x = b"hello" #bytes
