@@ -16,5 +16,5 @@ print(Word.replace("e" , "z"))
 
 #จงเติมคำในช่องว่าเพื่อแสดงชื่อ
 myname = "Boss"
-txt = "Boss is the best programmer"
+txt = "{} is the best programmer"
 print(txt.format(myname))
